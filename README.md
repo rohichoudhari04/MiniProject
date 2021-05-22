@@ -1,0 +1,2 @@
+# MiniProject
+Kindergarden school website
